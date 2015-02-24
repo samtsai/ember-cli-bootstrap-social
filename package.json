@@ -1,0 +1,25 @@
+{
+  "name": "ember-cli-bootstrap-social",
+  "version": "1.0.0",
+  "description": "Quickly add Social Sign-in Buttons (made via Bootstrap & Font Awesome)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:samtsai/ember-cli-bootstrap-social.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "social",
+    "login",
+    "signin"
+  ],
+  "author": "Sam Tsai <samtsai@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samtsai/ember-cli-bootstrap-social/issues"
+  },
+  "homepage": "https://github.com/samtsai/ember-cli-bootstrap-social"
+}
